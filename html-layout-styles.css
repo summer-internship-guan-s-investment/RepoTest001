@@ -33,18 +33,31 @@
 	
 }
 
-.table
+.table-striped
 {
 	margin: auto;
-	width: 50% !importan;
+	width: 50% !important;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: 900;
+	
 }
 
 .carousel-inner
 {
-	  width:100%;
-  max-height: 500px !important;
+	width:auto;
+  	max-height: 550px !important;
 }
 .carousel-item img{
+height:550px;
+width: auto;
 	
 }
+.descriptionText{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+	font-weight: 900;
+	
+	
+}
+
 
